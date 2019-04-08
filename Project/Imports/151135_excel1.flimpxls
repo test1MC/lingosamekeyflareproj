@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet="file:///C:/Users/lbalababa/Documents/My Projects/excelImport/Content/Resources/RowStyle.css"
+  PreserveSourceStyles="false"
+  LastImport="2019-04-08T15:35:22.0561301-07:00">
+  <Files>
+    <Url
+      Source="../../../../151135_excel.xlsx"
+      AbsoluteSource="file:///C:/Users/lbalababa/Documents/151135_excel.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/TableStyles/RowStyle.css"
+      TimeStamp="4/8/2019 3:35:09 PM" />
+    <Url
+      Source="../../Content/151135_excel1/Sheet1.htm"
+      TimeStamp="4/8/2019 3:35:14 PM" />
+    <Url
+      Source="../TOCs/151135_excel1.fltoc"
+      TimeStamp="4/8/2019 3:35:14 PM" />
+  </GeneratedFiles>
+</MsExcelImport>
